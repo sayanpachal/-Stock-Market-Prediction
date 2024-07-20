@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+matplotlib
+keras
+scikit-learn
+h5py

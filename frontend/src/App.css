@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App-header input {
+  padding: 0.5rem;
+  margin: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.App-header button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #61dafb;
+  color: #282c34;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.App-header button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+.image-container {
+  margin-top: 2rem;
+}
+
+.image-container img {
+  max-width: 80%;
+  height: auto;
+}
