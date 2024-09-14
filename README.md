@@ -12,7 +12,6 @@ This project is designed to predict stock prices using machine learning techniqu
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -107,7 +106,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
